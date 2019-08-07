@@ -1,0 +1,12 @@
+{
+    "saveAndRun": {
+        "commands": [
+          {
+            "match": "\\.ts$",
+            "cmd": "cd /Users/chidinmaezekwe/Desktop/node.js-architecture && yarn docker:build",
+            "useShortcut": false,
+            "silent": true
+          }
+        ]
+      }
+}

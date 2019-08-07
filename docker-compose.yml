@@ -1,0 +1,28 @@
+version: '3'
+services:
+  app:
+    container_name: docker-node-mongo
+    restart: always
+    env_file: .env
+    environment:
+      - NODE_ENV=$NODE_ENV
+      - PORT=$PORT
+      - LOG_LABEL=$LOG_LABEL
+      - LOG_LEVEL=$LOG_LEVEL
+      - LOG_FILE=$LOG_FILE
+      - API_PREFIX=$API_PREFIX
+      - DATABASE_URL=$DOCKER_DB_URL
+    build: .
+    ports:
+      - '80:8000'
+    links:
+      - mongo
+  mongo:
+    container_name: mongo
+    image: mongo
+    volumes:
+      - dbdata:/data/db
+    ports:
+      - '27017:27017'
+volumes:
+  dbdata:

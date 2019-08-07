@@ -1,0 +1,492 @@
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:26:19.820Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:26:19.824Z"}
+{"message":"Shutting down server...","level":"info","label":"setup","timestamp":"2019-08-06T15:26:26.430Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:26:34.744Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:26:34.752Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:29:59.902Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:29:59.906Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:31:38.182Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:31:38.185Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:31:54.775Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:31:54.779Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:31:56.748Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:31:56.754Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:38:30.514Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:38:30.519Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:40:17.916Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:40:17.921Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:40:21.590Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:40:21.596Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:40:35.253Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:40:35.256Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:40:37.257Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:40:37.262Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:40:38.821Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:40:38.825Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:40:41.763Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:40:41.769Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:40:47.750Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:40:47.754Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:40:49.209Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:40:49.213Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:40:59.876Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:40:59.880Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:41:47.616Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:41:47.622Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:41:53.500Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:41:53.505Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:41:58.788Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:41:58.793Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:42:23.970Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:42:23.974Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:42:45.108Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:42:45.112Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:43:01.264Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:43:01.267Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:43:12.053Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:43:12.057Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:43:22.948Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:43:22.954Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:43:29.040Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:43:29.044Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:43:38.763Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:43:38.766Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:44:26.202Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:44:26.207Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:44:36.029Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:44:36.032Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:44:38.325Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:44:38.329Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:44:40.424Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:44:40.427Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:44:41.806Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:44:41.810Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:44:53.509Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:44:53.513Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:45:02.176Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:45:02.182Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:45:05.874Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:45:05.878Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:45:11.409Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:45:11.413Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:45:13.746Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:45:13.749Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:45:24.843Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:45:24.847Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:46:32.208Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:46:32.216Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:46:38.460Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:46:38.464Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:46:47.241Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:46:47.244Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:46:51.736Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:46:51.740Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:48:13.131Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:48:13.137Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:48:33.927Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:48:33.931Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:52:42.018Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:52:42.022Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:53:07.560Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:53:07.564Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:53:11.681Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:53:11.685Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:53:36.446Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:53:36.451Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:53:41.602Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:53:41.606Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:54:09.018Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:54:09.021Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:54:12.125Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:54:12.129Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T15:54:15.143Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T15:54:15.147Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T16:04:20.368Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T16:04:20.372Z"}
+{"message":"Shutting down server...","level":"info","label":"setup","timestamp":"2019-08-06T19:43:06.057Z"}
+{"message":"Lost connection to database","level":"warn","label":"setup","timestamp":"2019-08-06T20:37:47.983Z"}
+{"message":"Database error: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]","level":"error","label":"setup","timestamp":"2019-08-06T20:37:47.985Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T20:38:15.069Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T20:38:15.072Z"}
+{"message":"Shutting down server...","level":"info","label":"setup","timestamp":"2019-08-06T20:38:17.831Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T20:41:04.441Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T20:41:04.445Z"}
+{"message":"Shutting down server...","level":"info","label":"setup","timestamp":"2019-08-06T20:41:06.521Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-06T21:20:23.459Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-06T21:20:23.463Z"}
+{"message":"Shutting down server...","level":"info","label":"setup","timestamp":"2019-08-06T21:21:12.552Z"}
+{"message":"Mounted userRoutes to userRoutes || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T11:35:13.642Z"}
+{"message":"Lost connection to database","level":"warn","label":"setup","timestamp":"2019-08-07T11:35:13.876Z"}
+{"message":"Database error: failed to connect to server [mongo:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND mongo mongo:27017]","level":"error","label":"setup","timestamp":"2019-08-07T11:35:13.877Z"}
+{"message":"Mounted userRoutes to userRoutes || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T11:36:19.679Z"}
+{"message":"Lost connection to database","level":"warn","label":"setup","timestamp":"2019-08-07T11:36:19.699Z"}
+{"message":"Database error: failed to connect to server [mongo:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND mongo mongo:27017]","level":"error","label":"setup","timestamp":"2019-08-07T11:36:19.699Z"}
+{"message":"Mounted userRoutes to userRoutes || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T11:40:03.554Z"}
+{"message":"Lost connection to database","level":"warn","label":"setup","timestamp":"2019-08-07T11:40:03.570Z"}
+{"message":"Database error: failed to connect to server [mongo:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND mongo mongo:27017]","level":"error","label":"setup","timestamp":"2019-08-07T11:40:03.571Z"}
+{"message":"Mounted userRoutes to userRoutes || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T11:40:55.694Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T11:40:55.726Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T11:40:55.731Z"}
+{"message":"Mounted userRoutes to userRoutes || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T11:41:26.278Z"}
+{"message":"Lost connection to database","level":"warn","label":"setup","timestamp":"2019-08-07T11:41:26.297Z"}
+{"message":"Database error: failed to connect to server [db:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND db db:27017]","level":"error","label":"setup","timestamp":"2019-08-07T11:41:26.298Z"}
+{"message":"Mounted userRoutes to userRoutes || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T11:41:28.936Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T11:41:28.962Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T11:41:28.966Z"}
+{"message":"Mounted userRoutes to userRoutes || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T11:41:34.072Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T11:41:34.111Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T11:41:34.117Z"}
+{"message":"Mounted userRoutes to userRoutes || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T11:41:41.430Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T11:41:41.470Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T11:41:41.473Z"}
+{"message":"Mounted userRoutes to userRoutes || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T11:42:02.553Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T11:42:02.577Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T11:42:02.580Z"}
+{"message":"Mounted userRoutes to userRoutes || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T11:42:08.927Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T11:42:08.953Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T11:42:08.956Z"}
+{"message":"Mounted userRoutes to userRoutes || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T11:42:11.700Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T11:42:11.724Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T11:42:11.727Z"}
+{"message":"Mounted userRoutes to userRoutes || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T11:42:14.200Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T11:42:14.226Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T11:42:14.229Z"}
+{"message":"Mounted userRoutes to userRoutes || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T11:42:50.940Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T11:42:50.964Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T11:42:50.967Z"}
+{"message":"Lost connection to database","level":"warn","label":"setup","timestamp":"2019-08-07T11:45:03.850Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T11:45:04.862Z"}
+{"message":"Mounted userRoutes to userRoutes || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T11:52:56.001Z"}
+{"message":"Lost connection to database","level":"warn","label":"setup","timestamp":"2019-08-07T11:52:56.018Z"}
+{"message":"Database error: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]","level":"error","label":"setup","timestamp":"2019-08-07T11:52:56.019Z"}
+{"message":"Mounted userRoutes to userRoutes || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T11:54:39.345Z"}
+{"message":"Lost connection to database","level":"warn","label":"setup","timestamp":"2019-08-07T11:54:39.360Z"}
+{"message":"Database error: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]","level":"error","label":"setup","timestamp":"2019-08-07T11:54:39.360Z"}
+{"message":"Mounted userRoutes to userRoutes || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T11:55:06.264Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T11:55:06.289Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T11:55:06.292Z"}
+{"message":"Mounted userRoutes to userRoutes || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T11:57:06.823Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T11:57:06.857Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T11:57:06.859Z"}
+{"message":"Mounted users to users || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T11:59:31.480Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T11:59:31.522Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T11:59:31.526Z"}
+{"message":"Mounted users to users || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T12:00:04.175Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:00:04.208Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:00:04.213Z"}
+{"message":"Mounted users to users || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T12:02:02.280Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:02:02.305Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:02:02.309Z"}
+{"message":"Mounted users to users || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T12:02:07.403Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:02:07.430Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:02:07.433Z"}
+{"message":"Mounted users to users || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T12:03:04.874Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:03:04.916Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:03:04.920Z"}
+{"message":"Mounted users to users || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T12:03:09.239Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:03:09.287Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:03:09.292Z"}
+{"message":"Mounted users to users || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T12:03:11.108Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:03:11.150Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:03:11.154Z"}
+{"message":"Mounted users to users || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T12:03:14.350Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:03:14.378Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:03:14.384Z"}
+{"message":"Mounted users to users || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T12:03:26.849Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:03:26.872Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:03:26.874Z"}
+{"message":"Mounted users to users || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T12:03:33.215Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:03:33.242Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:03:33.249Z"}
+{"message":"Mounted users to //api/users || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T12:03:55.555Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:03:55.594Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:03:55.598Z"}
+{"message":"Mounted users to /api/users || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T12:04:03.347Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:04:03.388Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:04:03.393Z"}
+{"message":"Mounted users to /api/users || '/'}","level":"info","label":"setup","timestamp":"2019-08-07T12:04:10.090Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:04:10.115Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:04:10.120Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:06:28.009Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:06:28.031Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:06:28.037Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:06:55.361Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:06:55.383Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:06:55.387Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:09:31.417Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:09:31.442Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:09:31.445Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:09:41.782Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:09:41.809Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:09:41.813Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:09:46.175Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:09:46.215Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:09:46.217Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:09:48.271Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:09:48.305Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:09:48.307Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:09:54.687Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:09:54.771Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:09:54.775Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:10:43.035Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:10:43.069Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:10:43.072Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:10:48.596Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:10:48.647Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:10:48.650Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:10:51.107Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:10:51.131Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:10:51.134Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:11:12.164Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:11:12.200Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:11:12.203Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:12:18.795Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:12:18.838Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:12:18.841Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:12:21.044Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:12:21.070Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:12:21.073Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:12:23.941Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:12:23.963Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:12:23.965Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:12:37.235Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:12:37.282Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:12:37.285Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:12:39.008Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:12:39.041Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:12:39.049Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:12:42.825Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:12:42.849Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:12:42.852Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:12:46.181Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:12:46.208Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:12:46.210Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:12:49.830Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:12:49.870Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:12:49.873Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:12:56.246Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:12:56.328Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:12:56.332Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:13:00.047Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:13:00.078Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:13:00.081Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:13:03.663Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:13:03.686Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:13:03.690Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:13:18.683Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:13:18.723Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:13:18.726Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:13:23.487Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:13:23.568Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:13:23.572Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:13:27.184Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:13:27.227Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:13:27.231Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:13:30.038Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:13:30.096Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:13:30.101Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:13:34.165Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:13:34.209Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:13:34.212Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:13:56.861Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:13:56.902Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:13:56.904Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:18:32.958Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:18:33.000Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:18:33.002Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:18:35.762Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:18:35.799Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:18:35.801Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:18:37.568Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:18:37.594Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:18:37.597Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:19:06.240Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:19:06.271Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:19:06.273Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:19:24.898Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:19:24.936Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:19:24.939Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:19:48.347Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:19:48.397Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:19:48.403Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:19:51.289Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:19:51.341Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:19:51.344Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:21:42.782Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:21:42.816Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:21:42.819Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:22:02.337Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:22:02.390Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:22:02.393Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:22:05.670Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:22:05.716Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:22:05.719Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:22:10.556Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:22:10.593Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:22:10.597Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:22:14.081Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:22:14.113Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:22:14.115Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:23:17.979Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:23:18.018Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:23:18.024Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:23:30.170Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:23:30.246Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:23:30.249Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:23:35.046Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:23:35.078Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:23:35.082Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:23:40.137Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:23:40.165Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:23:40.168Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:23:44.847Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:23:44.889Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:23:44.895Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:23:48.718Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:23:48.760Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:23:48.764Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:23:56.870Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:23:56.917Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:23:56.921Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:23:58.853Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:23:58.900Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:23:58.904Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:24:11.624Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:24:11.667Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:24:11.671Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:24:21.911Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:24:21.965Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:24:21.968Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:24:26.514Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:24:26.545Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:24:26.549Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:24:30.542Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:24:30.568Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:24:30.570Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:25:28.155Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:25:28.199Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:25:28.202Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:25:30.803Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:25:30.874Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:25:30.876Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:25:36.245Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:25:36.310Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:25:36.313Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:25:46.487Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:25:46.582Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:25:46.585Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:25:50.525Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:25:50.559Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:25:50.561Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:26:08.769Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:26:08.819Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:26:08.830Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:26:12.096Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:26:12.138Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:26:12.142Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:26:15.748Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:26:15.789Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:26:15.792Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:26:17.063Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:26:17.090Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:26:17.094Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:26:23.029Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:26:23.063Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:26:23.067Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:26:24.640Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:26:24.664Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:26:24.668Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:26:30.220Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:26:30.263Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:26:30.268Z"}
+{"message":"Shutting down server...","level":"info","label":"setup","timestamp":"2019-08-07T12:28:02.949Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:28:07.786Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:28:07.809Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:28:07.812Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:29:08.980Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:29:09.022Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:29:09.025Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:29:37.779Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:29:37.824Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:29:37.828Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:34:35.777Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:34:35.827Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:34:35.835Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:34:38.428Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:34:38.496Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:34:38.499Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:35:32.856Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:35:32.887Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:35:32.890Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:36:21.599Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:36:21.629Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:36:21.633Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:36:47.712Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:36:47.767Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:36:47.773Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:36:49.713Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:36:49.758Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:36:49.762Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:37:44.149Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:37:44.198Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:37:44.202Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:37:46.052Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:37:46.082Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:37:46.085Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:37:48.148Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:37:48.178Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:37:48.181Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:41:48.142Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:41:48.195Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:41:48.199Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:54:19.037Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:54:20.306Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:54:20.309Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:54:26.140Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:54:27.200Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:54:27.203Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:56:22.978Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:56:24.244Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:56:24.249Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:56:56.932Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:56:57.934Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:56:57.937Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:57:09.739Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:57:10.835Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:57:10.838Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:57:12.436Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:57:13.462Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:57:13.465Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:57:36.955Z"}
+{"message":"Lost connection to database","level":"warn","label":"setup","timestamp":"2019-08-07T12:57:36.977Z"}
+{"message":"Database error: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]","level":"error","label":"setup","timestamp":"2019-08-07T12:57:36.978Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:57:39.784Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:57:41.201Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:57:42.057Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:57:42.060Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:57:50.578Z"}
+{"message":"Lost connection to database","level":"warn","label":"setup","timestamp":"2019-08-07T12:57:50.598Z"}
+{"message":"Database error: failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017]","level":"error","label":"setup","timestamp":"2019-08-07T12:57:50.601Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T12:58:02.580Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T12:58:02.608Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T12:58:02.612Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T13:13:07.635Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T13:13:07.698Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T13:13:07.702Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T13:13:15.673Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T13:13:15.740Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T13:13:15.743Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T13:13:20.829Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T13:13:20.894Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T13:13:20.897Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T13:13:24.861Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T13:13:24.928Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T13:13:24.931Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T13:13:39.877Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T13:13:39.921Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T13:13:39.925Z"}
+{"message":"Mounted users to /api/users}","level":"info","label":"setup","timestamp":"2019-08-07T13:32:10.836Z"}
+{"message":"Connected to database successfully","level":"info","label":"setup","timestamp":"2019-08-07T13:32:10.859Z"}
+{"message":"API is listening on 127.0.0.1:8000","level":"info","label":"setup","timestamp":"2019-08-07T13:32:10.862Z"}
+{"message":"Lost connection to database","level":"warn","label":"setup","timestamp":"2019-08-07T13:33:50.208Z"}
+{"message":"Shutting down server...","level":"info","label":"setup","timestamp":"2019-08-07T13:33:54.113Z"}
