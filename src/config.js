@@ -9,6 +9,7 @@ dotenv.config();
     throw new Error(`Environment variable ${name} is missing`);
   }
 });
+
 const config = {
   env: process.env.NODE_ENV,
   hostname: process.env.HOSTNAME,
@@ -25,5 +26,10 @@ const config = {
   api: {
     prefix: process.env.API_PREFIX,
   },
+  redis: {
+    host: process.env.REDIS_HOST,
+    port: process.env.REDIS_PORT,
+  },
 };
+
 export default config;

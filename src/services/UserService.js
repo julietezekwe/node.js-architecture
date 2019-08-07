@@ -8,8 +8,9 @@ class UserService {
    * @param {object} param
    * @memberof UsersController
    */
-  constructor({ userRepository }) {
+  constructor({ userRepository, redis }) {
     this.userRepository = userRepository;
+    this.redis = redis;
     autoBind(this);
   }
 
@@ -20,7 +21,14 @@ class UserService {
    */
   async retrieveUser(id) {
     try {
-      return await this.userRepository.findById(id);
+      let user;
+      // retrieve user from redis
+      user = await this.redis.getObject('id', id);
+      if (user && Object.entries(user).length > 0) {
+        return user;
+      }
+      user = await this.userRepository.findById(id);
+      return user;
     } catch (error) {
       throw error;
     }
@@ -34,6 +42,7 @@ class UserService {
   async createAUser(options) {
     try {
       const newUser = await this.userRepository.create(options);
+      await this.redis.setObject('id', newUser.id, newUser, 86400);
       return newUser;
     } catch (error) {
       throw error;

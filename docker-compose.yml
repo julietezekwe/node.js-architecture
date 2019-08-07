@@ -12,11 +12,14 @@ services:
       - LOG_FILE=$LOG_FILE
       - API_PREFIX=$API_PREFIX
       - DATABASE_URL=$DOCKER_DB_URL
+      - REDIS_HOST=$DOCKER_REDIS_HOST
+      - REDIS_PORT:$REDIS_PORT
     build: .
     ports:
       - '80:8000'
     links:
       - mongo
+      - redis
   mongo:
     container_name: mongo
     image: mongo
@@ -24,5 +27,11 @@ services:
       - dbdata:/data/db
     ports:
       - '27017:27017'
+  redis:
+    container_name: redis
+    image: redis
+    volumes:
+      - redisdata:/data
 volumes:
   dbdata:
+  redisdata:

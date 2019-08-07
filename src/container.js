@@ -1,11 +1,12 @@
 import {
   createContainer, asFunction,
-  asValue, Lifetime,
+  asValue, Lifetime, asClass,
 } from 'awilix';
 import config from './config';
 import createLogger from './logger';
 import connectToDatabase from './db';
 import createApp from './index';
+import RedisClient from './utils/Redis';
 // import userRoute from './routes/userRoutes';
 const configureContainer = () => {
   // Create IoC container for dependency injection
@@ -39,6 +40,9 @@ const configureContainer = () => {
   // Register the express application and server last (it will auto-mount routers)
   container.register({
     app: asFunction(createApp)
+      .inject(() => ({ container }))
+      .singleton(),
+    redis: asClass(RedisClient)
       .inject(() => ({ container }))
       .singleton(),
   });
