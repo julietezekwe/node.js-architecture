@@ -8,12 +8,14 @@
   "license": "MIT",
   "scripts": {
     "watch": "nodemon",
+    "build": "rm -rf dist && babel src -d dist",
     "docker": "docker-compose up",
     "docker:build": "docker-compose build",
     "docker:app": "docker-compose up app",
     "docker:mongo": "docker-compose mongo",
     "docker:stop": "docker-compose down",
-    "start": "babel-node -- ./src/bin/www.js"
+    "start": "yarn build && node ./dist/bin/www.js",
+    "dev": "babel-node -- ./src/bin/www.js"
   },
   "dependencies": {
     "@babel/cli": "^7.5.5",

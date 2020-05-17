@@ -5,5 +5,5 @@
     ],
     "ignore": ["src/tests/"],
     "delay": 250,
-    "exec": "yarn start"
+    "exec": "yarn dev"
 }
